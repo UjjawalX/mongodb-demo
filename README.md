@@ -1,2 +1,0 @@
-# mongodb-demo
-Mongodb Transaction.

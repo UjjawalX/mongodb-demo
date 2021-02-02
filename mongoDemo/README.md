@@ -15,5 +15,7 @@ mvn spring-boot:run
 
 The apis that can be accessed : 
 localhost:8080/customer/ (POST)
+
 localhost:8080/channel/ (POST)
+
 localhost:8080/customer?customerId=6017df12b19aa900bd21dcf8 (DELETE)
